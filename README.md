@@ -16,8 +16,6 @@ I am currently pursuing my M.Tech in Cybersecurity and have a passion for Flutte
 - Git
 - Pen Testing
 
-## 📂 Projects
-
 ## 📫 Contact Me
 
 - LinkedIn: https://www.linkedin.com/in/om-delvadia/
