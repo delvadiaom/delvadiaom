@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there, I'm Om Delvadia! 👋
 
-<!--
-**delvadiaom/delvadiaom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently pursuing my M.Tech in Cybersecurity and have a passion for Flutter and Java development. Welcome to my GitHub profile! Here you'll find some of my projects and contributions in these exciting fields.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Flutter Development
+- Java Development
+- Cybersecurity (currently studying)
+
+## 🔧 Technologies & Tools
+
+- Flutter
+- Dart
+- Java
+- Git
+- Pen Testing
+
+## 📂 Projects
+
+## 📫 Contact Me
+
+- LinkedIn: https://www.linkedin.com/in/om-delvadia/
+- Email: om.delvadia02@gmail.com
+
+Feel free to reach out if you have any questions, suggestions, or just want to connect!
+
+
